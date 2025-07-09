@@ -1,4 +1,4 @@
-# Amjad_Adi_Task_Managment_System_Using_BST
+# Amjad_Adi_Task_Managment_System_Using_BST(10/10)
 This is a console-based C program that helps users manage tasks efficiently using a Binary Search Tree (BST)
 It supports multiple dynamic sorting modes based on task ID, name, date, or duration. Users can load tasks from a file, add/delete/search/perform tasks, restructure the BST, and analyze tree statistics — all through a menu-driven interface.
 
